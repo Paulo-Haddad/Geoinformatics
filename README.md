@@ -1,2 +1,0 @@
-# Geoinformatics
-Codes for geologists
